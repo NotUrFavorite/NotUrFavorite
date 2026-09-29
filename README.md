@@ -67,7 +67,7 @@
 
 <br>
 
-<!-- Frontend & Framework -->
+<h2> Frontend & Framework <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> </h2>
 
 <a href="https://react.dev/" target="_blank">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
