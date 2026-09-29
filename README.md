@@ -177,9 +177,6 @@ goal        -> turning business processes into clean, usable digital systems
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FyyWannaFly&show_icons=true&count_private=true&theme=tokyonight" height="180px"/>
-      </td>
-      <td>
         <img src="https://streak-stats.demolab.com?user=FyyWannaFly&theme=tokyonight&hide_border=true" height="180px"/>
       </td>
     </tr>
