@@ -79,6 +79,7 @@
 
 <br>
 
+<h2> Database & Backend <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> </h2>
 <!-- Database & Backend -->
 
 <a href="https://supabase.com/" target="_blank">
@@ -99,6 +100,7 @@
 
 <br>
 
+<h2> UI/UX & Design <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> </h2>
 <!-- UI/UX & Design -->
 
 <a href="https://www.figma.com/" target="_blank">
@@ -111,6 +113,7 @@
 
 <br>
 
+<h2> Project Management & Productivity <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> </h2>
 <!-- Project Management & Productivity -->
 
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
@@ -123,6 +126,7 @@
 
 <br>
 
+<h2> Development Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> </h2>
 <!-- Development Tools -->
 
 <a href="https://git-scm.com/" target="_blank">
