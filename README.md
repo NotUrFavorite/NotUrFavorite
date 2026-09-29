@@ -139,7 +139,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<h2> Featured Work <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm54M3I4aHk3dDVqeGxyZWdrZjR4cGk0NHM4dXB1a2w5dW14MHN1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="28px"> </h2>
+<h2> Featured Work </h2>
 
 - **[KLH Service System](#)** — internal web administration system designed around user requirements and business workflows, built with Next.js, React, TypeScript, and Supabase.
 
