@@ -60,6 +60,15 @@ SEO_Growth_Engine   -> search engine optimization & digital content strategy
 UI_UX_Design_System -> end-to-end user research, wireframing & prototyping
 ```
 
+<h2> Current Build </h2>
+
+```text
+status      -> building practical information systems
+focus       -> system analysis + UI/UX + frontend development
+working_on  -> workflow design, data integration & user-focused interfaces
+goal        -> turning business processes into clean, usable digital systems
+```
+
 <h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="32px"> </h2>
 
 <div align="center">
@@ -81,11 +90,13 @@ UI_UX_Design_System -> end-to-end user research, wireframing & prototyping
 
 <h2> Current Direction </h2>
 
-- refining private delivery systems
-- improving validation and license flows
-- making route and data tooling cleaner to reuse
-- pushing native-side helpers further
-- LETSSS GOO MAKE COOLLL PROJECTTT 🔥
+* building and improving web-based information systems
+* translating user requirements into structured system workflows
+* developing frontend interfaces with React, Next.js, and TypeScript
+* exploring data integration, SQL, and system-oriented problem solving
+* improving UI/UX through practical prototyping and user-focused design
+
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:111827&height=2&section=footer" width="100%" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:111827&height=2&section=footer" width="100%" />
