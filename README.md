@@ -14,7 +14,9 @@
   <a href="https://discord.gg/f78DjjxxN" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
+</p>
 
+<p align="center">
   <img alt="Focus" src="https://img.shields.io/badge/Focus-System%20Design%20%26%20UI%2FUX-0F172A?style=for-the-badge&logo=windows-terminal&logoColor=white">
 
   <img alt="Mode" src="https://img.shields.io/badge/Mode-Building%20Information%20Systems-111827?style=for-the-badge&logo=githubsponsors&logoColor=white">
