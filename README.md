@@ -152,3 +152,45 @@ Frontend_Development  -> React, Next.js, TypeScript & interactive interfaces
 Data_Integration      -> Supabase, SQL, MySQL & structured data management
 UI_UX_Design          -> wireframing, prototyping & user-focused interface design
 Project_Management    -> project planning, task management & SDLC organization
+```
+
+<h2> Current Build </h2>
+
+```text
+status      -> building practical information systems
+focus       -> system analysis + UI/UX + frontend development
+working_on  -> workflow design, data integration & user-focused interfaces
+goal        -> turning business processes into clean, usable digital systems
+```
+
+<h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="32px"> </h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FyyWannaFly/FyyWannaFly/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FyyWannaFly&show_icons=true&count_private=true&theme=tokyonight" height="180px"/>
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=FyyWannaFly&theme=tokyonight&hide_border=true" height="180px"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2> Current Direction </h2>
+
+* building and improving web-based information systems
+* translating user requirements into structured system workflows
+* developing frontend interfaces with React, Next.js, and TypeScript
+* exploring data integration, SQL, and system-oriented problem solving
+* improving UI/UX through practical prototyping and user-focused design
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:111827&height=2&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:111827&height=2&section=footer" width="100%" />
